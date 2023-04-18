@@ -1,0 +1,1 @@
+classe kivymd.uix.behaviors.rotate_behavior.RotateBehavior
