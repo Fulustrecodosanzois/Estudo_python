@@ -1,0 +1,18 @@
+Atividade 1 (sem método nativo):
+Escreva um programa em Python que solicite ao usuário um número inteiro e verifique se o número é positivo, negativo ou zero. Em seguida, exiba a mensagem apropriada na tela.
+
+
+Atividade 2 (com método nativo - abs()):
+Escreva um programa em Python que solicite ao usuário um número inteiro e verifique se o número é par ou ímpar. Utilize o método nativo "abs()" para obter o valor absoluto do número antes de verificar sua paridade.
+
+
+Atividade 3 (com método nativo - len()):
+Escreva um programa em Python que solicite ao usuário uma palavra e verifique se a palavra é maior que 5 caracteres ou não. Utilize o método nativo "len()" para obter o comprimento da palavra e compará-lo com 5.
+
+
+Atividade 4 (com método nativo - isdigit()):
+Escreva um programa em Python que solicite ao usuário uma entrada e verifique se a entrada é um número inteiro. Utilize o método nativo "isdigit()" para verificar se a entrada é composta apenas por dígitos.
+
+
+Atividade 5 (com método nativo - isalpha()):
+Escreva um programa em Python que solicite ao usuário uma palavra e verifique se a palavra é composta apenas por letras do alfabeto. Utilize o método nativo "isalpha()" para realizar a verificação.

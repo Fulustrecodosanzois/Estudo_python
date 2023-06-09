@@ -1,0 +1,3 @@
+
+Sistema de Gerenciamento de Biblioteca
+Desenvolva um sistema de gerenciamento de biblioteca. Crie classes como "Livro", "Biblioteca", "Usuario". Implemente métodos para adicionar livros à biblioteca, emprestar livros para usuários, devolver livros, verificar a disponibilidade de um livro, entre outros. Adicione um novo conceito, como um sistema de multas por atraso na devolução de livros.

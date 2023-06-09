@@ -1,0 +1,15 @@
+
+Atividade 1 (sem método nativo):
+Escreva um programa em Python que solicite ao usuário um número e imprima todos os números de 1 até o número informado, utilizando uma estrutura de repetição while.
+
+Atividade 2 (com método nativo - random.randint()):
+Escreva um programa em Python que gere um número aleatório entre 1 e 10 e peça ao usuário para adivinhar o número. Utilize uma estrutura de repetição while para permitir que o usuário faça múltiplas tentativas até acertar o número. Utilize o método nativo random.randint() para gerar o número aleatório.
+
+Atividade 3 (com método nativo - input()):
+Escreva um programa em Python que solicite ao usuário que digite uma palavra e imprima cada caractere da palavra em uma linha separada. Utilize uma estrutura de repetição while para iterar sobre os caracteres da palavra. Utilize o método nativo input() para obter a entrada do usuário.
+
+Atividade 4 (com método nativo - len()):
+Escreva um programa em Python que solicite ao usuário uma palavra e conte quantas vogais a palavra possui. Utilize uma estrutura de repetição while e o método nativo len() para iterar sobre os caracteres da palavra e verificar se são vogais.
+
+Atividade 5 (com método nativo - time.sleep()):
+Escreva um programa em Python que exiba uma contagem regressiva de 5 a 1, pausando por 1 segundo entre cada número. Utilize uma estrutura de repetição while e o método nativo time.sleep() para pausar a execução do programa.

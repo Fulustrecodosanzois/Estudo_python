@@ -1,0 +1,7 @@
+Sistema de Conta Bancária
+
+Crie classes relacionadas a um sistema de conta bancária. 
+
+Considere classes como "ContaBancaria", "ContaCorrente", "ContaPoupanca". Implemente métodos para depósito, saque e consulta de saldo. 
+
+Adicione um novo conceito, como taxa de juros (para conta poupança) ou limite de cheque especial (para conta corrente).

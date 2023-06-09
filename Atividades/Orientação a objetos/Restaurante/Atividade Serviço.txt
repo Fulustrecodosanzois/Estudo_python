@@ -1,0 +1,20 @@
+Crie uma classe chamada "Servico" que encapsule a lógica do sistema de pedidos. A classe deve ter o seguinte atributo privado:
+
+•	pedido : armazena o número de pedidos realizados.
+
+
+A classe deve ter os seguintes métodos públicos:
+
+•	__init__(self): inicializa o sistema de pedidos, configurando o número de pedidos como 0.
+
+•	novoPedido(self): registra um novo pedido no sistema, incrementando o número de pedidos em 1.
+
+•	cancelarPedido(self): cancela o pedido mais recente no sistema, decrementando o número de pedidos em 1. Certifique-se de tratar o caso em que não há pedidos para cancelar.
+
+•	exibirPedido(self): retorna o número de pedidos realizados até o momento.
+
+
+Dica:
+
+Utilize as operações de incremento e decremento (+= e -=) para atualizar o valor do atributo pedido.
+Certifique-se de tratar adequadamente o caso em que não há pedidos para cancelar, por exemplo, exibindo uma mensagem de aviso.
