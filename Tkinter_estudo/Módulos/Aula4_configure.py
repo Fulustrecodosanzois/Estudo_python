@@ -28,6 +28,7 @@ janela.configure(orient="vertical" ou "horizontal")# Alterar a orientação de u
 janela.configure(width=valor)# Alterar a largura da barra de rolagem de um widget:
 
 widget.configure(command=funcao)# Definir um comando (função) a ser executado quando o valor de um widget, como um Slider (Scrollbar) ou uma Caixa de Verificação (Checkbutton), é alterado:
+botao.config(command=clicado)
 
 widget.configure(padx=valor, pady=valor)# widget.configure(padx=valor, pady=valor)
 
